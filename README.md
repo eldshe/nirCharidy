@@ -6,7 +6,7 @@ This is a raw, as-is folder of my C# .NET project using Visual Studio.
 Make sure you notice that there are some NuGat packages installed in the project before trying to run it.
 
 
-A bit about this project:
+**A bit about this project:**
 
 
 Dashboard and display panel I developed for my last educational institution. Software created in order to monitor almost in real-time the status of the fundraising project and to display the status to the participating collectors in the room.
